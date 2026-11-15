@@ -1,4 +1,4 @@
-package passos
+package main 
 
 import (
 	"fmt"
